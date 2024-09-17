@@ -1,0 +1,21 @@
+#nav-title {
+  color: #fa8704;
+}
+#welcome-title-image {
+  justify-content: center;
+}
+
+h1 {
+  /* justify-content: center; */
+  background-color: antiquewhite;
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+.footer {
+  grid-area: footer;
+  padding: 3rem 2rem;
+  background-color: #333333;
+  text-align: center;
+  color: white;
+}
