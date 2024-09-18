@@ -49,6 +49,18 @@ body {
 }
 
 /* Main Content Layout */
+#overview {
+  grid-area: overview;
+}
+#overview-image {
+  grid-area: overview-image;
+}
+#specialties {
+  grid-area: specialties;
+}
+#specialties-image {
+  grid-area: specialties-image;
+}
 .main-content {
   display: grid;
   grid-template-areas:
