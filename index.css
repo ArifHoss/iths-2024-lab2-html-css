@@ -61,6 +61,7 @@ body {
 #specialties-image {
   grid-area: specialties-image;
 }
+
 .main-content {
   display: grid;
   grid-template-areas:
